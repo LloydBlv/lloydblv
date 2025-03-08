@@ -44,7 +44,7 @@ I specialize in **Android Mobile and Wear apps**, **Android TV applications**, a
 🔍 **Key Skills**: Kotlin, Android, Jetpack Compose, MVVM, UDF Architecture, Retrofit, Coil, Coroutines, Dagger Hilt, Flows, and more.
 
 🌱 **Mentorship & Articles**: 
-- I actively write articles on **[Medium](https://medium.com/@mrnj92)**.
+- I actively write articles on **[Medium](https://medium.com/@mrnajafi)**.
 - I mentor developers through **[MentorCruise](https://mentorcruise.com/mentor/rezanajafi/)**.
 - I share knowledge through **[YouTube](https://bit.ly/flydroidz)**.
 
